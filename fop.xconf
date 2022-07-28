@@ -1,0 +1,14 @@
+<fop version="1.0">
+  <renderers>
+    <renderer mime="application/pdf">
+      <fonts>
+        <font kerning="yes" embed-url="coresansnr45.otf">
+          <font-triplet name="Core Sans NR" style="normal" weight="400"/>
+        </font>
+        <font kerning="yes" embed-url="coresansnr65.otf">
+          <font-triplet name="Core Sans NR" style="normal" weight="700"/>
+        </font>
+      </fonts>
+    </renderer>
+  </renderers>
+</fop>

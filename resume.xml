@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resume>
+  <firstname>chris</firstname>
+  <lastname>lamberson</lastname>
+  <address>
+    <street>1255 N Kilpatrick St</street>
+    <city>Portland, OR</city>
+    <zip>97217</zip>
+  </address>
+  <phone>(503) 710-6042</phone>
+  <email>chris@lamberson.online</email>
+  <profile>Inventive software developer and DevOps engineer with fifteen years of industry experience and an extreme passion for thoughtful, well-engineered code. Highly proficient in designing effective systems that are resistant to maintenance issues. Fantastic communication and interpersonal skills. Constantly looking for ways to improve myself and my employer.</profile>
+  <skills>
+    <skill>Go</skill>
+    <skill>Python</skill>
+    <skill>C/C++</skill>
+    <skill>JavaScript/NodeJS</skill>
+    <skill>Terraform</skill>
+    <skill>Packer</skill>
+    <skill>BOSH</skill>
+    <skill>Git</skill>
+    <skill>VMware</skill>
+  </skills>
+  <skills>
+    <skill>Concourse</skill>
+    <skill>Puppet</skill>
+    <skill>Ansible</skill>
+    <skill>AWS</skill>
+    <skill>.NET</skill>
+    <skill>PowerShell</skill>
+    <skill>Win32</skill>
+    <skill>ClearCase</skill>
+  </skills>
+  <skills>
+    <skill>Continuous Integration</skill>
+    <skill>Software Build Systems</skill>
+    <skill>GNU/Linux</skill>
+  </skills>
+  <jobs>
+    <job>
+      <employer>Smarsh</employer>
+      <title>DevOps Engineer</title>
+      <date>2018-Current</date>
+      <description>Migrated a major web application product from ad-hoc VMs running in on-premises VMware vSphere to AWS using Terraform for infrastructure and Puppet for configuration management. Set up a Pivotal Cloud Foundry platform and helped internal teams migrate to BOSH/Concourse deployments. Maintained a thousand-system legacy infrastructure using Puppet and Ansible. Piloted a Kubernetes deployment using EKS Anywhere and helped teams move production workloads to a containerized workflow. Tracked all work in JIRA and Confluence.</description>
+    </job>
+    <job>
+      <employer>Cambia Health Solutions</employer>
+      <title>Senior DevOps Engineer</title>
+      <date>2017-2018</date>
+      <description>Took ownership of the operation of several web applications over a dozen servers. Servers were EC2 and EMR instances provisioned and configured automatically by Ansible. Adhered to a strict infrastructure-as-code workflow. Migrated several applications to a Dockerized, immutable infrastructure using Packer and Terraform with continuous deployment. Tracked all work in JIRA.</description>
+    </job>
+    <job>
+      <employer>Jaguar Land Rover</employer>
+      <title>Software Engineer</title>
+      <date>2014-2017</date>
+      <description>Created a ClearCase-to-Git bridge that carried 400 developers’ ClearCase information over to newer Git repositories and kept them in sync. Developed a single-page web application from scratch using NodeJS and PostgreSQL to allow managers to trade company cars with each other. Created JavaScript bindings for system-level features in C/C++ to enable access for frontend application developers. Wrote services in C/C++ controlling car audio systems, exposing their operation via a RESTful server interface with JSON communication. Created a virtual testing environment for automobile software with QEMU, cutting hardware costs. Setup a large network of build server EC2 instances in AWS maintained with strictly versioned Docker containers created programmatically by Packer and configured by Ansible.  Also used other AWS services such as S3, Route 53, and CloudFormation. Created and maintained three global GitLab instances and their respective NGINX servers, including updates, recovery, and coordination with the aforementioned build servers. Cut build times by 87% due to automation of build process. Tracked all work in TeamConcert and JIRA.</description>
+    </job>
+    <job>
+      <employer>Intel Corporation</employer>
+      <title>Build Engineer</title>
+      <date>2012-2014</date>
+      <description>Created and maintained two Jenkins instances and designed a novel way of building projects to allow for large-scale code reuse. Converted Windows and GNU/Linux WiFi driver projects from ClearCase to Git. Developed a custom testing system from scratch in Python to allow hundreds of driver developers to continuously test their software. Also deeply integrated said test system with Jenkins. Maintained SQL Server database containing build information history, including backups, recovery, and normalization. Developed a web application frontend in NodeJS to said SQL Server database. Tracked all work in TeamConcert.</description>
+    </job>
+    <job>
+      <employer>Intel Corporation</employer>
+      <title>Test Engineer</title>
+      <date>2010-2012</date>
+      <description>Designed and implemented realistic computational and multimedia workloads to appropriately test specific modules in Intel hardware, analyzing the data and generating reports with Python. Worked closely with embedded developers to solve difficult issues with our devices, leading to the release of our first Meego tablet.</description>
+    </job>
+    <job>
+      <employer>Intel Corporation</employer>
+      <title>Support Technician</title>
+      <date>2006-2007</date>
+      <description>Maintained Intel’s largest GNU/Linux server farm with a global team, ensuring reliability through tape backups, offsite storage, and tight SLAs. Also triaged support requests from various hardware and software engineers.</description>
+    </job>
+    <job>
+      <employer>Intel Corporation</employer>
+      <title>Software Engineer Assistant</title>
+      <date>2004-2005</date>
+      <description>Documented use-cases and user stories for C/C++ and Fortran compiler installers, and supported servers that made up the build and deployment system for the compiler development teams. Maintained support website for our developers.</description>
+    </job>
+  </jobs>
+  <schools>
+    <school>
+      <degree>Computer Science</degree>
+      <date>2007-2010</date>
+      <name>Western Oregon University, Monmouth, OR 97361</name>
+    </school>
+  </schools>
+</resume>
